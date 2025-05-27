@@ -1,0 +1,2076 @@
+@media (min-width:1400px) {
+    
+    .container{
+        max-width: 1320px;
+    }
+
+    .col-xxl-1 {
+        width: 8.3333%;
+    }
+
+    .col-xxl-2 {
+        width: 16.6666%;
+    }
+
+    .col-xxl-3 {
+        width: 25%;
+    }
+
+    .col-xxl-4 {
+        width: 33.3333%;
+    }
+
+    .col-xxl-5 {
+        width: 41.6666%;
+    }
+
+    .col-xxl-6 {
+        width: 50%;
+    }
+
+    .col-xxl-7 {
+        width: 58.3333%;
+    }
+
+    .col-xxl-8 {
+        width: 66.6666%;
+    }
+
+    .col-xxl-9 {
+        width: 75%;
+    }
+
+    .col-xxl-10 {
+        width: 83.3333%;
+    }
+
+    .col-xxl-11 {
+        width: 91.6666%;
+    }
+
+    .col-xxl-12 {
+        width: 100%;
+    }
+
+    .product{
+        display: block;
+     }
+    .about-description .title {
+        margin-top: 150px;
+    }
+    .our-pricing-details{
+        padding-top: 40px;
+    }
+    .our-pricing-img img{
+        margin: 0 auto;
+        padding-top: 40px;
+        width: 525px;
+        height: 680px;
+    }
+  
+    .about-us-img img{
+        width: 560px;
+        height: 692px;
+    }
+    .what-we-offer-heading .title h2{
+        font-size: 44px;
+    }
+    .offer-img{
+        padding: 0;
+    }
+    .offer-img img {
+        width: 522px;
+        height: 733px;
+        margin: 0 auto;
+    }
+    .signature .title p{
+        margin-top: 0;
+    }
+    .signature h3{
+        font-size: 20px;
+    }
+    .img-of-about-restaurant img{
+        width: 372px;
+        height: 668px;
+        border-radius: 400px 400px 0px 0px;
+    }
+        .schedule-open-hour div span{
+        font-size: 18px;
+    }
+    .Coffee-At-Your-Fingertips {
+        padding: 100px 0;
+        background-size: 15% auto;
+    }
+    .Coffee-At-Your-Fingertips::before{
+        display: none;
+    }
+    .Coffee-At-Your-Fingertips-full-sec .title p span{
+        font-size: 20px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec .title h2 {
+        font-size: 44px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec {
+        padding: 0px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec p {
+        font-size: 18px;
+    }
+    .store{
+        justify-content: center;
+    }
+    .call-footer, .address-footer {
+        border-bottom: none;
+        border-right: 1px solid rgb(206, 206, 206, 0.3);
+        padding-right: 10px;
+        
+    }
+    .open-hour-footer{
+        border-right: none;
+        border-bottom: none;
+
+    }
+    .call-footer .title p svg, .address-footer .title p svg, .open-hour-footer .title p svg{
+        width: 50px;
+        height: 50px;
+    }
+    .call-footer .title h3, .address-footer .title h3, .open-hour-footer .title h3{
+        font-size: 30px;
+    }
+    .call-footer .title p, .address-footer .title p, .open-hour-footer .title p {
+        font-size: 24px;
+    }
+    .call-footer .title, .address-footer .title, .open-hour-footer .title {
+        margin-bottom: 60px;
+    }
+    .call-footer , .address-footer , .open-hour-footer {
+        margin-top: 40px;
+    }
+    
+    .call-footer .title .btn, .address-footer .title .btn, .open-hour-footer .title .btn {
+        display: inline-block;
+        margin-left: 0;
+    }
+        .arrow-1 {
+        bottom: 30%;
+        left: 5%;
+    }
+    .arrow-2{
+        bottom: 30%;
+        right: 5%;
+    }
+    .footer-copyright{
+        padding-top: 60px;
+        margin-top: 0;
+        margin-bottom: 0;
+        column-gap: 230px;
+    }
+    .footer-copyright p{
+        order: -1;
+        padding-top: 20px;
+        font-size: 18px;
+    }
+    .footer-copyright img{
+        width: 192px;
+        height: 80px;
+    }
+    .circle-footer ul li a i{
+        width: 50px;
+        height: 50px;
+        align-items: center;
+        line-height: 50px;
+        font-size: 22px;
+    }
+    .footer{
+        padding: 50px 0;
+    }
+}
+
+@media (max-width:1399px){
+
+    .container{
+        max-width: 1140px;
+    }
+    .col-xl-1 {
+        width: 8.3333%;
+      }
+      .col-xl-2 {
+        width: 16.6666%;
+      }
+      .col-xl-3 {
+        width: 25%;
+      }
+      .col-xl-4 {
+        width: 33.3333%;
+      }
+      .col-xl-5 {
+        width: 41.6666%;
+      }
+      .col-xl-6 {
+        width: 50%;
+      }
+      .col-xl-7 {
+        width: 58.3333%;
+      }
+      .col-xl-8 {
+        width: 66.6666%;
+      }
+      .col-xl-9 {
+        width: 75%;
+      }
+      .col-xl-10 {
+        width: 83.3333%;
+      }
+      .col-xl-11 {
+        width: 91.6666%;
+    }
+    .col-xl-12 {
+        width: 100%;
+      }
+    nav{
+        display: block;
+     }
+     .btn{
+        display: inline-block;
+        margin-left: 10px ;
+     }
+     .hero-content .title h1{
+        font-size: 70px;
+     }
+     .hero-content .title p{
+        font-size: 18px;
+     }
+     .hero-bg{
+        padding-top: 100px;
+        padding-bottom: 200px;
+     }
+     .btn-hero .btn{
+            display: inline-block;
+     }
+     .about-description .title {
+        margin-top: 120px;
+    }
+     .about-description .title h2{
+        font-size: 44px;
+     }
+    .about-detail h3{
+        font-size: 22px;
+    }
+    .about-detail p{
+        font-size: 18px;
+    }
+    .about-us-btn .btn{
+        display: inline-block;
+    }
+    .open-hour{
+        padding:30px;
+        width: 60%;
+        bottom: 10%;
+        left: -12%;
+    }
+    .inside-icon{
+        width: 40px;
+        height: 40px;
+    }
+    .open-hour span{
+        font-size: 18px;
+    }
+    .detail-open-hour span{
+        font-size: 16px;
+    }
+    .about-description .title {
+        margin-top: 50px;
+    }
+    .about-us-img img{
+        width: 560px;
+        height: 693px;
+    }
+    .review{
+        padding: 40px 0px;
+    }
+    .review h3{
+        font-size: 22px;
+    }
+    .first-part h2 {
+        font-size: 44px;
+    }
+    .Our-Journey-Of-Success{
+        padding: 200px 0px;
+    }
+    .bottom-part-history{
+       margin-top: 180px;
+       padding-top: 0;
+
+    }
+    .journey .title p{
+        justify-content: start;
+    }
+    .journey .title{
+        text-align: start;
+    }
+    .journey .title h2 {
+        font-size:44px ;
+    }
+    .watch-video a i{
+        justify-content: end;
+    }
+    .img-info span{
+        font-size: 44px;
+    }
+    .img-info h3{
+        font-size: 18px;
+    }
+    .full-his-sec{
+        padding-right: 20px;
+        padding-bottom: 0px;
+        padding-top: 20px;
+
+    }
+    .our-pricing{
+        padding: 100px 0px;
+    }
+    .our-pricing-img{
+        padding: 40px 0;
+    }
+    .our-pricing-img img{
+        margin: 0 auto;
+        padding-top: 0px;
+        width: 525px;
+        height: 680px;
+    }
+    .top-our-pricing .title h2 , .top-our-pricing .title p{
+        font-size: 44px;
+    }
+    .tab-heading{
+        column-gap: 30px;
+    }
+    .tab-heading .btn{
+        display: inline-block;
+        margin: 0;
+        padding:16px 30px;
+
+    }
+    .our-pricing-description .color-change{
+        font-size: 15px;
+
+    }
+    .our-pricing-description p{
+        font-size: 18px;
+    }
+    .our-pricing-description a span{
+        font-size: 20px;
+    }
+    .our-pricing-Menu img{
+        width: 100px;
+        height: 100px;
+    } 
+    .what-we-offer {
+        padding: 50px 0;
+    }
+    
+    .what-we-offer-heading .title h2{
+        font-size: 42px;
+    }
+    .offer-img{
+        padding: 0;
+    }
+    .offer-img img {
+        width: 522px;
+        height: 733px;
+        margin: 0 auto;
+    }
+    .what-we-offer-heading .title p{
+    font-size: 18px;
+    }
+    .circle-of-offer-img-1 img{
+        right: -5%;
+        top: 10%;
+        width: 181px;
+        height: 181px;
+        border-width: 9px;
+    }
+    .circle-of-offer-img-2 img{
+        width: 181px;
+        height: 181px;
+        bottom: 10%;
+        left:-5%;
+        border-width: 9px;
+    }
+    .content-underline div a span {
+        font-size: 22px;
+    }
+    .content-underline div p{
+        font-size: 16px;
+    }
+    .About-Restaurant{
+        padding: 100px 0;
+    }
+    .About-Restaurant-philosophy .title h2{
+        font-size: 44px;
+        text-align: center;
+    }
+    .main-content-about-philosophy h3{
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .main-content-about-philosophy p{
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .signature .title p{
+        margin-top: 0;
+    }
+    .signature h3{
+        font-size: 20px;
+    }
+    .img-of-about-restaurant img{
+        width: 372px;
+        height: 668px;
+        border-radius: 400px 400px 0px 0px;
+    }
+        .schedule-open-hour div span{
+        font-size: 18px;
+    }
+    .Our-Testimonials{
+        padding: 100px 0;
+    }
+    .full-sec-testimonials .title h2{
+        font-size: 44px;
+        padding-bottom: 30px;
+    }
+    .full-sec-testimonials .title {
+        margin-bottom: 0;
+    }
+    .full-sec-testimonials {
+        padding-top: 0;
+        padding-bottom: 20px;
+        margin-top: 0;
+    }
+    .full-sec-testimonials h2 {
+        font-size: 36px;
+    }
+    
+    .full-sec-testimonials p{
+        font-size: 18px;
+    }
+    .arrow-1, .arrow-2{
+        width: 60px;
+        height: 60px;
+    }
+    .arrow-1 {
+        bottom: 30%;
+        left: 1%;
+    }
+    .arrow-2{
+        bottom: 30%;
+        right: 1%;
+    }
+    .Coffee-At-Your-Fingertips {
+        padding: 100px 0;
+        background-size: 18% auto;
+    }
+    .Coffee-At-Your-Fingertips::before{
+        display: none;
+    }
+    .Coffee-At-Your-Fingertips-full-sec .title p span{
+        font-size: 20px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec .title h2 {
+        font-size: 44px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec {
+        padding: 0px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec p {
+        font-size: 18px;
+    }
+    .store{
+        justify-content: center;
+    }
+    .call-footer, .address-footer {
+        border-bottom: none;
+        border-right: 1px solid rgb(206, 206, 206, 0.3);
+        padding-right: 10px;
+        
+    }
+    .open-hour-footer{
+        border-right: none;
+        border-bottom: none;
+
+    }
+    .call-footer .title p svg, .address-footer .title p svg, .open-hour-footer .title p svg{
+        width: 50px;
+        height: 50px;
+    }
+    .call-footer .title h3, .address-footer .title h3, .open-hour-footer .title h3{
+        font-size: 30px;
+    }
+    .call-footer .title p, .address-footer .title p, .open-hour-footer .title p {
+        font-size: 24px;
+    }
+    .call-footer .title, .address-footer .title, .open-hour-footer .title {
+        margin-bottom: 60px;
+    }
+    .call-footer , .address-footer , .open-hour-footer {
+        margin-top: 40px;
+    }
+    
+    .call-footer .title .btn, .address-footer .title .btn, .open-hour-footer .title .btn {
+        display: inline-block;
+        margin-left: 0;
+    }
+    .footer-copyright{
+        padding-top: 60px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .footer-copyright p{
+        order: -1;
+        padding-top: 20px;
+        font-size: 18px;
+    }
+    .footer-copyright img{
+        width: 192px;
+        height: 80px;
+    }
+    .circle-footer ul li a i{
+        width: 50px;
+        height: 50px;
+        align-items: center;
+        line-height: 50px;
+        font-size: 22px;
+    }
+    .footer{
+        padding: 50px 0;
+    }
+}
+
+@media (max-width:1199px){
+    .container{
+        max-width: 960px;
+    }
+    .col-lg-1 {
+        width: 8.3333%;
+      }
+      .col-lg-2 {
+        width: 16.6666%;
+      }
+      .col-lg-3 {
+        width: 25%;
+      }
+      .col-lg-4 {
+        width: 33.3333%;
+      }
+      .col-lg-5 {
+        width: 41.6666%;
+      }
+      .col-lg-6 {
+        width: 50%;
+      }
+      .col-lg-7 {
+        width: 58.3333%;
+      }
+      .col-lg-8 {
+        width: 66.6666%;
+      }
+      .col-lg-9 {
+        width: 75%;
+      }
+      .col-lg-10 {
+        width: 83.3333%;
+      }
+      .col-lg-11 {
+        width: 91.6666%;
+    }
+    .col-lg-12 {
+        width: 100%;
+      }
+     .hero-content .title h1{
+        font-size: 70px;
+     }
+     .hero-content .title p{
+        font-size: 18px;
+     }
+     .hero-bg{
+        padding-top: 100px;
+        padding-bottom: 200px;
+     }
+     .btn-hero .btn{
+            display: inline-block;
+     }
+     .about-us{
+        padding: 100px 0;
+     }
+     .about-description .title {
+        margin-top: 120px;
+    }
+     .about-description .title h2{
+        font-size: 44px;
+     }
+    .about-detail h3{
+        font-size: 22px;
+    }
+    .about-detail p{
+        font-size: 18px;
+    }
+    .about-us-btn .btn{
+        display: inline-block;
+        margin-left: 0;
+    }
+    .open-hour{
+        padding:30px;
+        width: 70%;
+        bottom: 10%;
+        left: -12%;
+    }
+    .inside-icon{
+        width: 40px;
+        height: 40px;
+    }
+    .open-hour span{
+        font-size: 18px;
+    }
+    .detail-open-hour span{
+        font-size: 16px;
+    }
+    .about-description .title {
+        margin-top: 50px;
+    }
+    .about-us-img img{
+        width: 500px;
+        height: 618px;
+    }
+    .why-choose-us{
+        padding: 100px 0;
+    }
+    .review{
+        padding: 40px 0px;
+    }
+    .review h3{
+        font-size: 22px;
+    }
+    .first-part h2 {
+        font-size: 44px;
+    }
+    .Our-Journey-Of-Success{
+        padding: 200px 0px;
+    }
+    .bottom-part-history{
+       margin-top: 180px;
+       padding-top: 0;
+
+    }
+    .journey .title p{
+        justify-content: start;
+    }
+    .journey .title{
+        text-align: start;
+    }
+    .journey .title h2 {
+        font-size:44px ;
+    }
+    .watch-video a i{
+        justify-content: end;
+    }
+    .img-info span{
+        font-size: 44px;
+    }
+    .img-info h3{
+        font-size: 18px;
+    }
+    .full-his-sec{
+        padding-right: 20px;
+        padding-bottom: 0px;
+        padding-top: 20px;
+        flex-wrap: wrap;
+
+    }
+    .our-pricing{
+        padding: 100px 0px;
+    }
+    .our-pricing-img{
+        padding: 0;
+    }
+    .our-pricing-img img{
+        margin: 0 auto;
+        padding-top: 0px;
+        width: 465px;
+        height: 602px;
+    }
+    .top-our-pricing .title h2 , .top-our-pricing .title p{
+        font-size: 44px;
+    }
+    .tab-heading{
+        column-gap: 30px;
+    }
+    .tab-heading .btn{
+        display: inline-block;
+        margin: 0;
+        padding:16px 30px;
+
+    }
+    .our-pricing-description .color-change{
+        font-size: 5px;
+
+    }
+    .our-pricing-description p{
+        font-size: 18px;
+    }
+    .our-pricing-description a span{
+        font-size: 20px;
+    }
+    .our-pricing-Menu img{
+        width: 100px;
+        height: 100px;
+    } 
+    .what-we-offer {
+        padding: 50px 0;
+    }
+    
+    .what-we-offer-heading .title h2{
+        font-size: 42px;
+    }
+    .offer-img{
+        padding: 0;
+    }
+    .offer-img img {
+        width: 451px;
+        height: 634px;
+        margin: 0 auto;
+    }
+    .what-we-offer-heading .title{
+        margin-bottom: 0;
+    }
+    .what-we-offer-heading .title p{
+    font-size: 18px;
+    }
+    .circle-of-offer-img-1 img{
+        right: -10%;
+        top: 10%;
+        width: 165px;
+        height: 165px;
+        border-width: 9px;
+    }
+    .circle-of-offer-img-2 img{
+        width: 165px;
+        height: 165px;
+        bottom: 10%;
+        left:-5%;
+        border-width: 9px;
+    }
+    .content-underline div a span {
+        font-size: 22px;
+    }
+    .content-underline div p{
+        font-size: 16px;
+    }
+    .About-Restaurant{
+        padding: 100px 0;
+    }
+    .About-Restaurant-philosophy .title h2{
+        font-size: 44px;
+        text-align: center;
+    }
+    .main-content-about-philosophy h3{
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .main-content-about-philosophy p{
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .signature .title p{
+        margin-top: 0;
+    }
+    .signature h3{
+        font-size: 20px;
+    }
+    .img-of-about-restaurant img{
+        width: 331px;
+        height: 594px;
+        border-radius: 400px 400px 0px 0px;
+    }
+        .schedule-open-hour div span{
+        font-size: 18px;
+    }
+    .Our-Testimonials{
+        padding: 100px 0;
+    }
+    .full-sec-testimonials .title h2{
+        font-size: 44px;
+        padding-bottom: 30px;
+    }
+    .full-sec-testimonials .title {
+        margin-bottom: 0;
+    }
+    .full-sec-testimonials {
+        padding-top: 0;
+        padding-bottom: 20px;
+        margin-top: 0;
+    }
+    .full-sec-testimonials h2 {
+        font-size: 36px;
+    }
+    
+    .full-sec-testimonials p{
+        font-size: 18px;
+    }
+    .arrow-1, .arrow-2{
+        width: 60px;
+        height: 60px;
+    }
+    .arrow-1 {
+        bottom: 30%;
+        left: 1%;
+    }
+    .arrow-2{
+        bottom: 30%;
+        right: 1%;
+    }
+    .Coffee-At-Your-Fingertips {
+        padding: 100px 0;
+        background-size: 18% auto;
+    }
+    .Coffee-At-Your-Fingertips::before{
+        display: none;
+    }
+    .Coffee-At-Your-Fingertips-full-sec .title p span{
+        font-size: 20px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec .title h2 {
+        font-size: 44px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec {
+        padding: 0px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec p {
+        font-size: 18px;
+    }
+    .store{
+        justify-content: center;
+    }
+    .call-footer, .address-footer {
+        border-bottom: none;
+        border-right: 1px solid rgb(206, 206, 206, 0.3);
+        padding-right: 10px;
+        
+    }
+    .open-hour-footer{
+        border-right: none;
+        border-bottom: none;
+
+    }
+    .call-footer .title p svg, .address-footer .title p svg, .open-hour-footer .title p svg{
+        width: 50px;
+        height: 50px;
+    }
+    .call-footer .title h3, .address-footer .title h3, .open-hour-footer .title h3{
+        font-size: 30px;
+    }
+    .call-footer .title p, .address-footer .title p, .open-hour-footer .title p {
+        font-size: 24px;
+    }
+    .call-footer .title, .address-footer .title, .open-hour-footer .title {
+        margin-bottom: 60px;
+    }
+    .call-footer , .address-footer , .open-hour-footer {
+        margin-top: 40px;
+    }
+    
+    .call-footer .title .btn, .address-footer .title .btn, .open-hour-footer .title .btn {
+        display: inline-block;
+        margin-left: 0;
+    }
+    .footer-copyright{
+        padding-top: 60px;
+        margin-top: 0;
+        margin-bottom: 0;
+        column-gap: 100px;
+    }
+    .footer-copyright p{
+        order: -1;
+        padding-top: 20px;
+        font-size: 18px;
+    }
+    .footer-copyright img{
+        width: 192px;
+        height: 80px;
+    }
+    .circle-footer ul li a i{
+        width: 50px;
+        height: 50px;
+        align-items: center;
+        line-height: 50px;
+        font-size: 22px;
+    }
+    .footer{
+        padding: 50px 0;
+    }
+    .svg{
+        display: none;
+    }
+}
+@media (max-width:991px){
+    .container{
+        max-width: 720px;
+    }
+    .col-md-1 {
+        width: 8.3333%;
+      }
+      .col-md-2 {
+        width: 16.6666%;
+      }
+      .col-md-3 {
+        width: 25%;
+      }
+      .col-md-4 {
+        width: 33.3333%;
+      }
+      .col-md-5 {
+        width: 41.6666%;
+      }
+      .col-md-6 {
+        width: 50%;
+      }
+      .col-md-7 {
+        width: 58.3333%;
+      }
+      .col-md-8 {
+        width: 66.6666%;
+      }
+      .col-md-9 {
+        width: 75%;
+      }
+      .col-md-10 {
+        width: 83.3333%;
+      }
+      .col-md-11 {
+        width: 91.6666%;
+    }
+    .col-md-12 {
+        width: 100%;
+      }
+          nav{
+        display: none;
+     }
+     .btn{
+        display: none;
+     }
+     .hero-content .title h1{
+        font-size: 50px;
+     }
+     .hero-content .title p{
+        font-size: 18px;
+     }
+     .hero-bg{
+        padding-top: 60px;
+        padding-bottom: 100px;
+     }
+     .btn-hero .btn{
+            display: inline-block;
+     }
+     .open-hour{
+        width: 45%;
+        padding:25px;
+    }
+    .detail-open-hour span{
+        font-size: 16px;
+    }
+    .about-description .title {
+        margin-top: 50px;
+    }
+    .img-of-about-restaurant{
+        display: flex;
+        order: 1;
+    }
+    .about-us{
+        padding-bottom: 50px;
+    }
+    .about-us-img img{
+        height: 777px;
+        width: 628px;
+        margin: 0 auto;
+    }
+   .about-us-btn{
+    justify-content: start;
+   }
+   .why-choose-us{
+    padding: 50px 0;
+   }
+    .why-choose-us::before{
+   background-size: 40% 30%;
+
+    }
+    .review{
+        padding: 40px 0px;
+        flex-wrap: nowrap;
+    }
+
+    .left-review , .right-review{
+        width: 100%;  
+    }
+    .right-review{
+        padding-top: 0;
+        
+    }
+    .review h3{
+        font-size: 20px;
+    }
+    .review div p {
+        font-size: 18px;
+    }
+    .py-right-bottom , .py-top-left{
+        padding-left: 30px; 
+        padding-bottom: 30px; 
+
+    }
+    .py-top-right-bottom {
+        padding-left: 30px;
+        padding-bottom: 30px;
+    }
+    .first-part h2 {
+        font-size: 34px;
+    }
+    .Our-Journey-Of-Success{
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .bottom-part-history{
+       margin-top: 50px;
+
+    }
+    .journey .title h2 {
+        font-size:34px ;
+
+    }
+    .watch-video a i{
+        justify-content: end;
+    }
+    .img-info span{
+        font-size: 34px;
+    }
+    .img-info h3{
+        font-size: 15px;
+    }
+    .full-his-sec{
+        padding-right: 20px;
+        padding-bottom: 0px;
+        padding-top: 20px;
+
+    }
+    .our-pricing{
+        padding: 50px 0px;
+    }
+    .our-pricing-img{
+        padding: 50px 0;
+    }
+    .our-pricing-img img{
+        margin: 0 auto;
+        padding-top: 0px;
+        width: 480px;
+        height: 622px;
+    }
+    .top-our-pricing{
+        margin-bottom: 0;
+    }
+    .top-our-pricing .title h2 , .top-our-pricing .title p{
+        font-size: 34px;
+    }
+    .tab-heading{
+        column-gap: 10px;
+    }
+    .tab-heading .btn{
+        display: inline-block;
+        margin: 0;
+        padding: 5px 20px;
+
+    }
+    .our-pricing-description .color-change{
+        font-size:  36px;
+    }
+    .our-pricing-description a span{
+        font-size: 20px;
+    }
+    .our-pricing-description p{
+        font-size: 18px;
+    }
+    .our-pricing-Menu{
+        margin-top: 20px;
+    }
+    .our-pricing-Menu img{
+        width: 100px;
+        height: 100px;
+
+    } 
+    .our-pricing-Menu-img{
+        padding-bottom: 20px;
+    }
+    .interactive-image{
+        padding-top: 500px;
+    }
+    .interactive-image-content{
+        width: 100%;
+        text-align: center;
+
+    }
+    .interactive-image-content p {
+        font-size: 30px;
+    }
+    .what-we-offer {
+        padding: 50px 0;
+    }
+    .what-we-offer-heading .title h2{
+        font-size: 34px;
+    }
+    .offer-img{
+        padding: 0;
+    }
+    
+    .offer-img img {
+        width: 627px;
+        height: 880px;
+        margin: 0 auto;
+    }
+    .what-we-offer-heading .title p{
+    font-size: 18px;
+    }
+    .circle-of-offer-img-1 img{
+        top: 5%;
+        width: 146px;
+        height: 146px;
+        border-width: 9px;
+    }
+    .circle-of-offer-img-2 img{
+        width: 146px;
+        height: 146px;
+        bottom: 7%;
+        border-width: 9px;
+    }
+    .content-underline div a span {
+        font-size: 20px;
+    }
+    .content-underline div p{
+        font-size: 16px;
+    }
+    .About-Restaurant{
+        padding: 50px 0;
+    }
+    .About-Restaurant-philosophy .title h2{
+        font-size: 34px;
+        text-align: center;
+    }
+    .main-content-about-philosophy h3{
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .main-content-about-philosophy p{
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .signature .title p{
+        margin-top: 0;
+    }
+    .signature h3{
+        font-size: 20px;
+    }
+    .img-of-about-restaurant img{
+        width: 759px;
+        height: 832px;
+        border-radius: 400px 400px 0px 0px;
+    }
+        .schedule-open-hour div span{
+        font-size: 18px;
+    }
+    .Our-Testimonials{
+        padding: 50px 0;
+    }
+    .full-sec-testimonials .title p {
+        padding-bottom: 0;
+    }
+    .full-sec-testimonials .title h2{
+        font-size: 34px;
+    }
+    .full-sec-testimonials .title {
+        margin-bottom: 0;
+    }
+    .full-sec-testimonials {
+        padding-top: 0;
+        padding-bottom: 20px;
+        margin-top: 0;
+    }
+    .full-sec-testimonials h2{
+        font-size: 26px;
+    }
+    .full-sec-testimonials p{
+        font-size: 18px;
+    }
+    .arrow-1, .arrow-2{
+        width: 45px;
+        height: 45px;
+    }
+    .arrow-1 {
+        bottom: 30%;
+        left: 1%;
+    }
+    .arrow-2{
+        bottom: 30%;
+        right: 1%;
+    }
+    .Coffee-At-Your-Fingertips::before{
+        display: block;
+    }
+    .Coffee-At-Your-Fingertips {
+        padding: 50px 0;
+        background-size: 15% auto;
+    }
+    .Coffee-At-Your-Fingertips-full-sec .title p span{
+        font-size: 20px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec .title h2 {
+        font-size: 34px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec {
+        padding: 0px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec p {
+        font-size: 18px;
+    }
+    .store{
+        justify-content: center;
+    }
+    .call-footer, .address-footer {
+        border-bottom: none;
+        border-right: 1px solid rgb(206, 206, 206, 0.3);
+        padding-right: 10px;
+        
+    }
+    .open-hour-footer{
+        border-right: none;
+        border-bottom: none;
+
+    }
+    .call-footer .title p svg, .address-footer .title p svg, .open-hour-footer .title p svg{
+        width: 50px;
+        height: 50px;
+    }
+    .call-footer .title h3, .address-footer .title h3, .open-hour-footer .title h3{
+        font-size: 24px;
+    }
+    .call-footer .title p, .address-footer .title p, .open-hour-footer .title p {
+        font-size: 17px;
+    }
+    .call-footer .title, .address-footer .title, .open-hour-footer .title {
+        margin-bottom: 40px;
+    }
+    .call-footer , .address-footer , .open-hour-footer {
+        margin-top: 0;
+    }
+    
+    .call-footer .title .btn, .address-footer .title .btn, .open-hour-footer .title .btn {
+        display: inline-block;
+        margin-left: 0;
+    }
+    .footer-copyright{
+        padding-top: 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+        column-gap:30px;
+    }
+    .footer-copyright p{
+        order: -1;
+        padding-top: 20px;
+        font-size: 16px;
+    }
+    .footer-copyright img{
+        width: 165px;
+        height: 69px;
+    }
+    .circle-footer ul li a i{
+        width: 40px;
+        height: 40px;
+        align-items: center;
+        line-height: 40px;
+    }
+    .footer{
+        padding: 50px 0;
+    }
+    .About-Restaurant .row .col-md-12{
+        order: -1;
+    }
+    .svg{
+        display: block;
+    }
+}
+@media(max-width:767px){
+
+    .container{
+        max-width: 540px;
+    }
+    .col-sm-1 {
+        width: 8.3333%;
+      }
+      .col-sm-2 {
+        width: 16.6666%;
+      }
+      .col-sm-3 {
+        width: 25%;
+      }
+      .col-sm-4 {
+        width: 33.3333%;
+      }
+      .col-sm-5 {
+        width: 41.6666%;
+      }
+      .col-sm-6 {
+        width: 50%;
+      }
+      .col-sm-7 {
+        width: 58.3333%;
+      }
+      .col-sm-8 {
+        width: 66.6666%;
+      }
+      .col-sm-9 {
+        width: 75%;
+      }
+      .col-sm-10 {
+        width: 83.3333%;
+      }
+      .col-sm-11 {
+        width: 91.6666%;
+    }
+    .col-sm-12 {
+        width: 100%;
+      }
+
+    .social-icon{
+        display: none;
+    } 
+    nav{
+        display: none;
+     }
+     .contact ul li span{
+        font-size: 16px;
+     }
+         .py-border-right{
+        border-right: none;
+    }
+     .btn{
+        display: none;
+     }
+     .hero-content .title h1{
+        font-size: 30px;
+     }
+     .hero-content .title p{
+        font-size: 16px;
+     }
+     .hero-bg{
+        padding-top: 60px;
+        padding-bottom: 100px;
+     }
+     .btn-hero .btn{
+            display: inline-block;
+     }
+     .about-description .title h2{
+        font-size: 26px;
+     }
+      .about-description{
+        margin-right: 0;
+      }
+     .about-us{
+        padding: 50px 0;
+     }
+    .about-detail h3{
+        font-size: 18px;
+    }
+    .about-detail p{
+        font-size: 16px;
+    }
+    .about-us-btn .btn{
+        display: inline-block;
+    }
+    .open-hour{
+        width: 53%;
+        padding: 15px;
+        bottom: 15%;
+    }
+    .about-us-img img{
+        height: 639px;
+    }
+    .inside-detail-3 span:not(:last-child){
+        margin-right: 40px;
+    }
+    .inside-icon{
+        width: 40px;
+        height: 40px;
+    }
+    .open-hour span{
+        font-size: 18px;
+    }
+    .detail-open-hour span{
+        font-size: 16px;
+    }
+    .about-description .title {
+        margin-top: 50px;
+    }
+     .about-us-btn {
+        justify-content: space-between;
+    }
+    .why-choose-us{
+        padding: 50px 0px;
+    }
+    .why-choose-us::before{
+       display: none;
+    }
+    .review{
+        padding: 40px 0px;
+           flex-wrap: wrap;
+    }
+
+    .lef.right-review , .right-review{
+        width: 100%;  
+    }
+    .right-review{
+        padding-top: 30px;
+        
+    }
+    .review h3{
+        font-size: 18px;
+    }
+    .review div p {
+        font-size: 16px;
+    }
+    .py-right-bottom , .py-top-right-bottom , .py-top-left{
+        padding-left: 0;
+
+    }
+    .py-top-right{
+    border-bottom:1px solid rgb(206, 206, 206,0.3);
+    padding-bottom: 30px;
+    }
+    .first-part h2 {
+        font-size: 25px;
+    }
+    .Our-Journey-Of-Success{
+        padding: 40px 0px;
+    }
+    .bottom-part-history{
+       margin-top: 50px;
+       padding-top: 0;
+       /* padding: 0; */
+    }
+    .journey .title p{
+        justify-content: center;
+    }
+    .journey .title{
+        text-align: start;
+    }
+    .journey .title h2 {
+        font-size:26px ;
+    }
+    .watch-video a i{
+        justify-content: center;
+    }
+    .img-info span{
+        font-size: 26px;
+    }
+    .img-info h3{
+        font-size: 14px;
+    }
+    .full-his-sec{
+        padding-right: 30px;
+        padding-bottom: 0px;
+    }
+    .our-pricing{
+        padding: 50px 0px;
+    }
+    .our-pricing-img{
+        padding: 0;
+    }
+    .our-pricing-img img{
+        margin: 0 auto;
+        padding-top: 40px;
+    }
+    .top-our-pricing .title h2 , .top-our-pricing .title p{
+        font-size: 26px;
+    }
+    .tab-heading{
+        column-gap: 10px;
+    }
+    .tab-heading .btn{
+        display: inline-block;
+        margin: 0;
+        padding: 5px 20px;
+    }
+    .our-pricing-description a span , .our-pricing-description p{
+        font-size: 16px;
+    }
+    .our-pricing-description .color-change{
+            font-size: 20px;
+    }
+    .our-pricing-Menu img{
+        width: 70px;
+        height: 70px;
+    } 
+    .interactive-image{
+        padding-top: 200px;
+    }
+    .interactive-image-content{
+        width: 100%;
+        text-align: center;
+        border-right: none;
+        border-bottom: 1px solid rgb(206, 206, 206,0.4);
+    }
+    .interactive-image .container .row .col-12:last-child{
+        border-bottom: none;
+    }
+    .interactive-image-content p {
+        font-size: 30px;
+    }
+    .what-we-offer {
+        padding: 50px 0;
+    }
+    .what-we-offer-heading .title h2{
+        font-size: 26px;
+    }
+    .offer-img{
+
+        padding: 0;
+    }
+    .offer-img img {
+        width: 510px;
+        height: 652px;
+        margin: 0 auto;
+    }
+    .what-we-offer-heading .title p{
+    font-size: 16px;
+    }
+    .circle-of-offer-img-1 img{
+        top: 3%;
+        width: 100px;
+        height: 100px;
+        border-width: 5px;
+    }
+    .circle-of-offer-img-2 img{
+        width: 100px;
+        height: 100px;
+        bottom: 3%;
+        left:-5%;
+        border-width: 5px;
+    }
+    .content-underline div a span {
+        font-size: 18px;
+    }
+    .content-underline div p{
+        font-size: 16px;
+    }
+    .About-Restaurant{
+        padding: 50px 0;
+    }
+    .About-Restaurant-philosophy .title h2{
+        font-size: 26px;
+        text-align: center;
+    }
+    .main-content-about-philosophy h3{
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .main-content-about-philosophy p{
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+    .signature .title p{
+        margin-top: 0;
+    }
+    .signature h3{
+        font-size: 18px;
+    }
+    .img-of-about-restaurant img{
+        width: 535px;
+        border-radius: 400px 400px 0px 0px;
+
+    }
+        .schedule-open-hour div span{
+        font-size: 16px;
+    }
+    .Our-Testimonials{
+        padding: 50px 0;
+    }
+    .full-sec-testimonials .title h2{
+        font-size: 26px;
+    }
+    .full-sec-testimonials .title {
+        margin-bottom: 0;
+    }
+    .full-sec-testimonials {
+        padding-top: 0;
+        padding-bottom: 80px;
+        margin-top: 0;
+    }
+    .full-sec-testimonials h2{
+        font-size: 18px;
+    }
+    .full-sec-testimonials p{
+        font-size: 16px;
+    }
+    .arrow-1, .arrow-2{
+        width: 40px;
+        height: 40px;
+    }
+    .arrow-1 {
+        bottom: 15%;
+        left: 20%;
+    }
+    .arrow-2{
+        bottom: 15%;
+        right: 20%;
+    }
+
+    .Coffee-At-Your-Fingertips {
+        padding: 50px 0;
+        background-size: 30% auto;
+    }
+    .Coffee-At-Your-Fingertips-full-sec .title h2 {
+        font-size: 26px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec {
+        padding: 0px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec p {
+        font-size: 16px;
+    }
+    .store{
+        justify-content: left;
+    }
+    .call-footer, .address-footer, .open-hour-footer {
+        border-right: none;
+        border-bottom: 1px solid rgb(206, 206, 206, 0.3);;
+    }
+    .call-footer .title p svg, .address-footer .title p svg, .open-hour-footer .title p svg{
+        width: 40px;
+        height: 40px;
+    }
+    .call-footer .title h3, .address-footer .title h3, .open-hour-footer .title h3{
+        font-size: 18px;
+    }
+    .call-footer .title p, .address-footer .title p, .open-hour-footer .title p {
+        font-size: 18px;
+    }
+    .call-footer .title, .address-footer .title, .open-hour-footer .title {
+        margin-bottom: 10px;
+    }
+    
+    .call-footer .title .btn, .address-footer .title .btn, .open-hour-footer .title .btn {
+        display: inline-block;
+    }
+    .footer-copyright{
+        padding-top: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .footer-copyright p{
+        order: 1;
+        padding-top: 20px;
+        font-size: 16px;
+    }
+    .footer-copyright img{
+        width: 165px;
+        height: 69px;
+    }
+    .circle-footer ul li a i{
+        width: 40px;
+        height: 40px;
+        align-items: center;
+        line-height: 40px;
+    }  
+}
+@media(max-width:575px){
+
+    .container{
+        max-width: 100%;
+    }
+    .col-1 {
+        width: 8.3333%;
+      }
+      .col-2 {
+        width: 16.6666%;
+      }
+      .col-3 {
+        width: 25%;
+      }
+      .col-4 {
+        width: 33.3333%;
+      }
+      .col-5 {
+        width: 41.6666%;
+      }
+      .col-6 {
+        width: 50%;
+      }
+      .col-7 {
+        width: 58.3333%;
+      }
+      .col-8 {
+        width: 66.6666%;
+      }
+      .col-9 {
+        width: 75%;
+      }
+      .col-10 {
+        width: 83.3333%;
+      }
+      .col-11 {
+        width: 91.6666%;
+    }
+    .col-12 {
+        width: 100%;
+      }
+
+    .social-icon{
+        display: none;
+    } 
+    nav{
+        display: none;
+     }
+     .btn{
+        display: none;
+     }
+          .contact ul{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .contact ul li{
+        text-align: center;
+       }
+     .contact ul li span{
+        font-size: 13px;
+     }
+     .hero-content .title h1{
+        font-size: 30px;
+     }
+     .hero-content .title p{
+        font-size: 16px;
+     }
+     .hero-bg{
+        padding-top: 60px;
+        padding-bottom:100px;
+     }
+     .btn-hero .btn{
+            display: inline-block;
+     }
+     .product{
+        display: none;
+     }
+     .about-description .title h2{
+        font-size: 26px;
+     }
+    .about-detail h3{
+        font-size: 18px;
+    }
+    .about-detail p{
+        font-size: 16px;
+    }
+    .about-us-btn .btn{
+        display: inline-block;
+    }
+    .open-hour{
+        padding:15px;
+        width: 50%;
+        left:-1%;
+        bottom: 15%;
+    }
+    
+    .inside-icon{
+        width: 40px;
+        height: 40px;
+    }
+    .open-hour span{
+        font-size: 18px;
+    }
+    .detail-open-hour span{
+        font-size: 16px;
+    }
+    .about-description .title {
+        margin-top: 50px;
+    }
+    .about-us-img img{
+        height: 593px;
+        width: 455px;
+        margin: 0 auto;
+
+    }
+         .about-us-img-full-detail {
+        margin: 40px auto;
+    }
+    .about-us-btn {
+        justify-content: space-between;
+    }
+    .why-choose-us{
+        padding: 50px 0px;
+    }
+    .why-choose-us::before{
+       display: none;
+    }
+    .review{
+        padding: 40px 0px;
+    }
+    .py-border-right{
+        border-right: none;
+        flex-grow: 1;
+    }
+    .lef.right-review , .right-review{
+        width: 100%;  
+    }
+    .right-review{
+        padding-top: 30px;
+        
+    }
+    .review h3{
+        font-size: 18px;
+    }
+    .review div p {
+        font-size: 16px;
+    }
+    .py-right-bottom , .py-top-right-bottom , .py-top-left{
+        padding-left: 0;
+    }
+    .py-top-right{
+    border-bottom:1px solid rgb(206, 206, 206,0.3);
+    padding-bottom: 30px;
+    }
+    .first-part h2 {
+        font-size: 25px;
+    }
+    .Our-Journey-Of-Success{
+        padding: 40px 0px;
+    }
+    .bottom-part-history{
+       margin-top: 50px;
+       padding-top: 0;
+       /* padding: 0; */
+    }
+    .journey .title p{
+        justify-content: center;
+    }
+    .journey .title{
+        text-align: center;
+    }
+    .journey .title h2 {
+        font-size:26px ;
+    }
+    .watch-video a i{
+        justify-content: center;
+    }
+    .img-info span{
+        font-size: 26px;
+    }
+    .img-info h3{
+        font-size: 14px;
+    }
+    .full-his-sec{
+        padding-right: 30px;
+        padding-bottom: 0px;
+    }
+    .our-pricing{
+        padding: 50px 0px;
+    }
+    .our-pricing-img img{
+        margin: 0 auto;
+        padding-top: 40px;
+        width: 500px;
+        height: 648px;
+    }
+    .our-pricing-img{
+        padding: 0;
+    }
+    .top-our-pricing .title h2 , .top-our-pricing .title p{
+        font-size: 26px;
+    }
+    .tab-heading{
+        column-gap: 10px;
+    }
+    .tab-heading .btn{
+        display: inline-block;
+        margin: 0;
+        padding: 5px 20px;
+
+    }
+    .our-pricing-description a span , .our-pricing-description p{
+        font-size: 16px;
+    }
+    .our-pricing-Menu img{
+        width: 70px;
+        height: 70px;
+    }
+    .interactive-image{
+        padding-top: 200px;
+    }
+    .interactive-image-content{
+        width: 100%;
+        border-right: none;
+        text-align: center;
+        border-bottom: 1px solid rgb(206, 206, 206,0.4);
+    }
+    .what-we-offer {
+        padding: 50px 0;
+    }
+    .what-we-offer-heading .title h2{
+        font-size: 26px;
+    }
+    .offer-img{
+
+        padding: 0;
+    }
+    .offer-img img {
+        width: 430px;
+        height: 604px;
+        margin: 0 auto;
+    }
+    .what-we-offer-heading .title p{
+    font-size: 16px;
+    }
+    .circle-of-offer-img-1 img{
+        right: 10%;
+        top: 3%;
+        width: 100px;
+        height: 100px;
+        border-width: 5px;
+    }
+    .circle-of-offer-img-2 img{
+        width: 100px;
+        height: 100px;
+        bottom: 3%;
+        left:0%;
+        border-width: 5px;
+    }
+    .content-underline div a span {
+        font-size: 18px;
+    }
+    .content-underline div p{
+        font-size: 16px;
+    }
+    .About-Restaurant{
+        padding: 50px 0;
+    }
+    .About-Restaurant-philosophy .title h2{
+        font-size: 26px;
+        text-align: center;
+    }
+    .main-content-about-philosophy h3{
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .main-content-about-philosophy p{
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+    .signature .title p{
+        margin-top: 0;
+    }
+    .signature h3{
+        font-size: 18px;
+    }
+    .img-of-about-restaurant img{
+        width: 500px;
+        height: 550px;
+        border-radius: 400px 400px 0px 0px;
+
+    }
+    .schedule-open-hour div span{
+        font-size: 16px;
+    }
+    .Our-Testimonials{
+        padding: 50px 0;
+    }
+    .full-sec-testimonials .title h2{
+        font-size: 26px;
+    }
+    .full-sec-testimonials .title {
+        margin-bottom: 0;
+    }
+    .full-sec-testimonials {
+        padding-top: 0;
+        padding-bottom: 80px;
+        margin-top: 0;
+    }
+    .full-sec-testimonials h2{
+        font-size: 18px;
+    }
+    .full-sec-testimonials p{
+        font-size: 16px;
+    }
+    .arrow-1, .arrow-2{
+        width: 40px;
+        height: 40px;
+    }
+    .arrow-1 {
+        bottom: 15%;
+        left: 20%;
+    }
+    .arrow-2{
+        bottom: 15%;
+        right: 20%;
+    }
+
+    .Coffee-At-Your-Fingertips {
+        padding: 50px 0;
+        background-size: 30% auto;
+    }
+    .Coffee-At-Your-Fingertips-full-sec .title h2 {
+        font-size: 26px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec {
+        padding: 0px;
+    }
+    .Coffee-At-Your-Fingertips-full-sec p {
+        font-size: 16px;
+    }
+    .store{
+        justify-content: left;
+    }
+    .call-footer, .address-footer, .open-hour-footer {
+        border-right: none;
+        border-bottom: 1px solid rgb(206, 206, 206, 0.3);;
+    }
+    .call-footer .title p svg, .address-footer .title p svg, .open-hour-footer .title p svg{
+        width: 40px;
+        height: 40px;
+    }
+    .call-footer .title h3, .address-footer .title h3, .open-hour-footer .title h3{
+        font-size: 18px;
+    }
+    .call-footer .title p, .address-footer .title p, .open-hour-footer .title p {
+        font-size: 18px;
+    }
+    .call-footer .title, .address-footer .title, .open-hour-footer .title {
+        margin-bottom: 10px;
+    }
+    
+    .call-footer .title .btn, .address-footer .title .btn, .open-hour-footer .title .btn {
+        display: inline-block;
+    }
+    .footer-copyright{
+        padding-top: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .footer-copyright p{
+        order: 1;
+        padding-top: 20px;
+        font-size: 16px;
+    }
+    .footer-copyright img{
+        width: 165px;
+        height: 69px;
+    }
+    .circle-footer ul li a i{
+        width: 40px;
+        height: 40px;
+        align-items: center;
+        line-height: 40px;
+    }
+
+}
+
